@@ -110,3 +110,9 @@ app.*.map.json
 !.idea/codeStyles/
 !.idea/dictionaries/
 !.idea/runConfigurations/
+
+# Flutter generated files
+*.config.dart
+*.freezed.dart
+*.g.dart
+*.gr.dart
